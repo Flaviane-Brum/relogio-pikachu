@@ -22,7 +22,7 @@ Projeto desenvolvido para pôr em prática os conceitos aprendidos em Javascript
 </div>
 <div>
 <p>Você pode conferir o resultado final em: 
-<a href=""> 
+<a href="https://flaviane-brum.github.io/relogio-pikachu/"> 
 </a>
 </p>
 </div>
